@@ -1,0 +1,2 @@
+b. The inner triangle is not perspectively correct. The center points should be mapped to center points. Linear interpolation would yield the same result.
+c. The inner triangle is perspectively correct.

@@ -1,0 +1,5 @@
+Cons:
+The algorithm is inefficient because the same steps are repeated multiple times and there is a deep level of recursion. Furthermore, we can not use any shading but only fill with a single color. It is also hard to find a good seed position.
+
+Pros:
+The algorithm is very intuitive to understand and simple to implement. On top of that, it only requires little information to run: a single pixel inside the shape and the boundary's color.

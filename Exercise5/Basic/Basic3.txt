@@ -1,0 +1,3 @@
+With flat and Gouraud shading the highlight sometimes disappears when it should be there.
+This happens when the highlight is not directly hitting the points where lighting is computed, because the rest of the lighting is only interpolated.
+With Phong shading however, the light is computed at every point and only the normal is interpolated.

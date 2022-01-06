@@ -1,0 +1,1 @@
+z-Fighting occurs when looking at far away objects with the near plane being too close to the camera and the far plane far enough from the camera.
